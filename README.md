@@ -8,7 +8,7 @@
 
 </br>
 
-O projeto tem como objetivo ajudar procurar filmes.
+O projeto tem como objetivo ajudar à procurar filmes.
 
 
 ## Preview
@@ -30,19 +30,18 @@ Para a utilização é preciso clonar o repositório, instalar as depedências e
 
 ```bash
 # Abra o terminal/cmd e em seguida Clone este repositório
-$ git clone https://github.com/edersonpaixao21/GoRestaurant.git
+$ git clone https://github.com/edersonpaixao21/WhatToWatch.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd GoRestaurant
+$ cd WhatToWatch
 
 # Instale as dependências
 $ yarn install ou apenas yarn
 
 # Execute a aplicação em modo de desenvolvimento
-$ yarn start
+$ yarn dev
 
-# Execute server.json
-$ yarn json-server server.json -p 3333
+# O servidor inciará na rede local
 
 ```
 
@@ -52,7 +51,6 @@ $ yarn json-server server.json -p 3333
 
 -   [React](https://github.com/facebook/react)
 -   [Typescript](https://www.typescriptlang.org/)
--   [Styled Components](https://www.styled-components.com/)
 
 </br>
 
