@@ -14,7 +14,7 @@ interface FilmProps {
   overview?: string;
 }
 
-export function App() {
+export function Home() {
   const [film, setFilm] =useState<FilmProps>({} as FilmProps)
   const id = Math.floor(Math.random() *1000) + 1
 
@@ -67,10 +67,10 @@ export function App() {
 
         <div>
         <button type="button" onClick={handleSearchFilm}>
-          <img src={shuffleImg} alt="logo" />
+          
           <span>Encontrar filme</span>
         </button> 
-        <p className='click' >Clique em "Encontrar filme" que traremos informações de algum filme para você assistir hoje.</p>
+        <p className='click' >Clique em "Encontrar filme" que traremos informações <br /> de algum filme para você assistir hoje.</p>
         </div>
       </div>
 
