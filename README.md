@@ -1,6 +1,6 @@
 <p align="center">
 <h1>
- GoRestaurant
+ What to watch
 </h1>
 </p>
 
