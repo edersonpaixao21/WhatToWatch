@@ -17,7 +17,7 @@ Interface do usuário.
 
 <p align="center">
   <kbd>
- <img width="800" style="border-radius: 10px" height="400" 
+ <img width="auto" style="border-radius: 10px" height="auto" 
  src="https://github.com/edersonpaixao21/whattowatch/blob/main/src/assets/GifProview.gif" alt="Intro">
   </kbd>
   </br>
