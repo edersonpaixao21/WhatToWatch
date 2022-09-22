@@ -41,7 +41,6 @@ $ yarn install ou apenas yarn
 # Execute a aplicação em modo de desenvolvimento
 $ yarn dev
 
-# O servidor inciará na rede local
 
 ```
 
